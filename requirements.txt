@@ -1,0 +1,4 @@
+Requirements for personal_intro.py file 
+------------------------------------------------
+No external libraries were used in this Project 
+Python 3.10 version is Used to run the Project 
